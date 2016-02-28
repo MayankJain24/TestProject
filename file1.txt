@@ -1,4 +1,4 @@
-Intial file
+Initial file
 2nd commit
 3rd commit
 4th commit
